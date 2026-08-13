@@ -1,0 +1,6 @@
+{
+  "name": "Daily Brew Coach",
+  "description": "An all-in-one daily life coach featuring an encyclopedia-level fitness suite, habit tracker, focus sprint timer, micro-coaching, and daily planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
