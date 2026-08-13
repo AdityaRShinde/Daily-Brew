@@ -1,6 +1,5 @@
 ☕ Daily Brew Coach — All-In-One Personal Life Coach & Routine Builder
 
-Short Repo Description (for GitHub About section):
 A high-energy, pocket-sized life coach and routine engine that combines time-adaptive dashboards, 2-minute micro-coaching, focus tools with ambient audio synthesizers, scientific workout guides, study trackers, and gamified habit building into a tactile, neo-brutalist interface.
 
 🌟 Product Overview
